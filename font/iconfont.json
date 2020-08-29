@@ -1,0 +1,93 @@
+{
+  "id": "1985330",
+  "name": "字体图标",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "14151862",
+      "name": "向上",
+      "font_class": "xiangshang",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "259473",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "688084",
+      "name": "排名 标签",
+      "font_class": "paimingbiaoqian",
+      "unicode": "e77e",
+      "unicode_decimal": 59262
+    },
+    {
+      "icon_id": "9568049",
+      "name": "向左",
+      "font_class": "xiangzuo1",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "1037692",
+      "name": "向右",
+      "font_class": "xiangyou",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "5650484",
+      "name": "电脑",
+      "font_class": "icon-test",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "1011",
+      "name": "口红",
+      "font_class": "kouhong",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "1086276",
+      "name": "鞋子",
+      "font_class": "xiezi",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "5200935",
+      "name": "家居",
+      "font_class": "canjiabisaizuopin_huaban",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "5924500",
+      "name": "衣服",
+      "font_class": "yifu",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "12753674",
+      "name": "相机",
+      "font_class": "xiangji_huaban",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "15064403",
+      "name": "家用电器",
+      "font_class": "jiayongdianqi",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    }
+  ]
+}
